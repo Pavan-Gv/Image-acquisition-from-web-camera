@@ -12,20 +12,20 @@ iv) Rotate and display the video
 ## Software Used
 Anaconda - Python 3.7
 ## Algorithm
-### Step 1:
-<br>
+Step 1:
+Import Opencv Package.<br>
 
-### Step 2:
-<br>
+Step 2:
+Capture the Video from the WebCamera.<br>
 
-### Step 3:
-<br>
+Step 3:
+Write the image to a file.<br>
 
-### Step 4:
-<br>
+Step 4:
+Show the image or the live camera.<br>
 
-### Step 5:
-<br>
+Step 5:
+End the program.<br>
 
 ## Program:
 ## i) Write the frame as JPG file
