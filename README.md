@@ -111,15 +111,11 @@ cv2.destroyAllWindows()
 ## Output
 
 ### i) Write the frame as JPG image
-</br>
-![DIP1](https://user-images.githubusercontent.com/94827772/162371424-a4c7332a-b4a0-4d40-84ff-b2130e2a19e3.png)
-</br>
+![DIP1](https://user-images.githubusercontent.com/94827772/162371680-4fb7d409-7dce-4ae7-8156-e52f20a1ef50.png)
 
 
 ### ii) Display the video
-</br>
 ![DIP2 ](https://user-images.githubusercontent.com/94827772/162371447-4edae789-6263-465c-91a7-ce7ca69aa5e7.png)
-</br>
 
 
 ### iii) Display the video by resizing the window
